@@ -7,7 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
   /* background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));*/
-  background-color: rgb(227, 227, 227) !important;
+  background-color: rgb(50, 0, 50) !important;
 }
 :root { font-family: 'Inter', sans-serif !important; }
 @supports (font-variation-settings: normal) {
