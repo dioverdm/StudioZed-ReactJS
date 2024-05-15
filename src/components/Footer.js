@@ -17,11 +17,11 @@ function Footer() {
           {/* <h3>Powered By ReactJs, NodeJs & ExpressJs</h3> */}
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Studio Zed</h3>
+          <h3>Copyright © {year} Pogo OS Studio</h3>
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="#"
+                href="https://github.com/pogo-os"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
+                href="https://twitter.com/@pogo_os"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -41,7 +41,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
+                href="https://linkdein.com/@dioverdm"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -51,7 +51,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
+                href="https://instagram.com/pogo_os"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
