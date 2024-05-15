@@ -30,8 +30,8 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                We are
-                <strong className="main-name"> Studio Zed</strong>
+                Somos
+                <strong className="main-name"> Pogo OS Studio</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left", width: "max-content" }}>
